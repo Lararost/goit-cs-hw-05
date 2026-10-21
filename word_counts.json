@@ -1,0 +1,70 @@
+{
+  "url": "http://127.0.0.1:52667/text.txt",
+  "total_words": 34,
+  "unique_words": 21,
+  "top_words": [
+    [
+      "python",
+      4
+    ],
+    [
+      "mapreduce",
+      3
+    ],
+    [
+      "words",
+      3
+    ],
+    [
+      "файли",
+      3
+    ],
+    [
+      "and",
+      2
+    ],
+    [
+      "files",
+      2
+    ],
+    [
+      "слова",
+      2
+    ],
+    [
+      "та",
+      2
+    ],
+    [
+      "asynchronous",
+      1
+    ],
+    [
+      "counts",
+      1
+    ]
+  ],
+  "frequencies": {
+    "and": 2,
+    "asynchronous": 1,
+    "counts": 1,
+    "don't": 1,
+    "files": 2,
+    "helps": 1,
+    "learn": 1,
+    "learning": 1,
+    "mapreduce": 3,
+    "processing": 1,
+    "python": 4,
+    "stop": 1,
+    "supports": 1,
+    "us": 1,
+    "words": 3,
+    "асинхронність": 1,
+    "допомагає": 1,
+    "обробляти": 1,
+    "слова": 2,
+    "та": 2,
+    "файли": 3
+  }
+}

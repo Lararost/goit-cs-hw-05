@@ -1,0 +1,4 @@
+Python helps us learn. Python supports asynchronous processing.
+Files and words, words and files. MapReduce counts words.
+Асинхронність допомагає обробляти файли. Файли та слова, слова та файли.
+Python Python. MapReduce MapReduce. Don't stop learning!
